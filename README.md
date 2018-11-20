@@ -44,3 +44,10 @@ OR
    ![](images/image4.png)
 
 6. At any point, if you miss the lab details, you can always click on Launch lab during the duration of lab hours(x hours from signup)   and this will open up web page with lab details.
+
+**Option 2** : Register via Custom Invite
+
+1.	You’d have received an automated invite to launch the Lab. Click on Launch Lab, Once you’re ready to start the lab.
+2.	This will open up a web page, Click on Launch Lab again WHEN you’re ready to start the lab. Note that the lab environment provisioning will start as soon as you click on Launch Lab.
+3.	This will start provisioning the lab environment.  Note that this can take up to x hour for the lab environment provisioning to finish. You can close this web browser if you wish to, you’d get another email with lab details once provisioning is completed.
+
