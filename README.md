@@ -30,6 +30,8 @@ OR
 1.	**Launch** a modern web browser(Edge,Chrome,Firefox etc.) and open the lab registration portal. **URL** should be provided to you by your instructor
 2. **Enter** the required details and click on **Submit**
 
-![](images/image1.png)
+  ![](images/image1.png)
  
 3.	Once registration is completed, Click on **Launch Lab WHEN** you’re ready to start the lab. Note that the lab environment provisioning will start as soon as you click on Launch Lab. So you should do this only once you’re ready.
+
+  ![](images/image2.png)
