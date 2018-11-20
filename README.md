@@ -12,9 +12,10 @@ Check Point Labs for CCSA/CCSE
  2. Login to Checkpoint Server
  3. Launch Hyper-v Manager
  4. Start/Stop Hyper-V VMs
- 5. Start/Stop Hyper-V Host (Using cloudlabs portal)
+ 5. Start/Stop Hyper-V Host (Using cloudlabs portal).
 
- 1.  **Registration for the labs**:
+
+**1.** **Registration for the labs**: 
  
  > Lab overview
  There’re two ways you could register for the labs., One is when an instructor provides you a signup link, second when you receive an       exclusive invite. Please follow steps based on the registration details provided to you.
