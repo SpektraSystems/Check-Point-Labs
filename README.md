@@ -17,8 +17,8 @@ Check Point Labs for CCSA/CCSE
 
 **1.** **Registration for the labs**: 
  
- > Lab overview
- There’re two ways you could register for the labs., One is when an instructor provides you a signup link, second when you receive an       exclusive invite. Please follow steps based on the registration details provided to you.
+ > **Lab overview**: 
+  There’re two ways you could register for the labs., One is when an instructor provides you a signup link, second when you receive an       exclusive invite. Please follow steps based on the registration details provided to you.
 
 **Prerequisites**
 * 	You should have received a lab registration URL from your instructor
