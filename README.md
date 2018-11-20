@@ -29,3 +29,5 @@ OR
 
 1.	**Launch** a modern web browser(Edge,Chrome,Firefox etc.) and open the lab registration portal. **URL** should be provided to you by your instructor
 2. **Enter** the required details and click on **Submit**
+
+![](images/image1.png)
