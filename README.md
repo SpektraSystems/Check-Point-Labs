@@ -35,3 +35,5 @@ OR
 3.	Once registration is completed, Click on **Launch Lab WHEN** you’re ready to start the lab. Note that the lab environment provisioning will start as soon as you click on Launch Lab. So you should do this only once you’re ready.
 
   ![](images/image2.png)
+
+4. This will start provisioning the lab environment.  Note that this can take up to 15 to 20 minutes for the lab environment provisioning to finish. You can close this web browser if you wish to, you’d get another email with lab details once provisioning is completed.
