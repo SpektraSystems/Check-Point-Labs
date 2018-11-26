@@ -69,4 +69,5 @@ email.
  * CCSE/CCSA Host DNS Name: You’d use this to take RDP of the Host Machine.
  * CCSE/CCSA Host Credentials: Username and password for the host. 
  ![](images/image4.png)
+5. At any point, if you miss the lab details, you can always click on Launch lab during the lab duration and this will open up web page with lab details. 
 
