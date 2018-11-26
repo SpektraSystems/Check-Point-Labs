@@ -47,7 +47,7 @@ you’d get another email with lab details once provisioning is completed.
 5. Once provisioning is completed, you’d find following details on lab details page and the
 email.
 
-  a. Azure Login Username Password: This is just to look at azure infrastructure (Read access)
-  b. CCSE/CCSA Host DNS Name: You’d use this to take RDP of the Host Machine
-  c. CCSE/CCSA Host Credentials: Username and password for the host. 
+a. Azure Login Username Password: This is just to look at azure infrastructure (Read access).
+b. CCSE/CCSA Host DNS Name: You’d use this to take RDP of the Host Machine.
+c. CCSE/CCSA Host Credentials: Username and password for the host. 
 ![](images/image4.png)
