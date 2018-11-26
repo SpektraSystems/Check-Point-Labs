@@ -90,7 +90,6 @@ below:
 ![](images/image8.png)
 7. One you’re inside the server, You can launch Hyper-V Manager available on task bar/desktop to
 connect to CCSE/CCSA VMs.
-
 ![](images/image09.png)
 
 8. You’d see list of all VMs in Hyper-V Manager. You can connect to a VM by right clicking on it
@@ -101,7 +100,6 @@ and saying connect. Accept the default resolution option if asked.
 **In this exercise, you will use Hyper-V Manager to start VMs**
 1. Once you’re inside the server, You can launch **Hyper-V Manager** available on task bar to
 connect to CCSA VMs. 
-
 ![](images/image09.png)
 2. You’d see list of all VMs in **Hyper-V Manager**. You can start the VM by just clicking on it and
 select Start option on the right pane of the window.
