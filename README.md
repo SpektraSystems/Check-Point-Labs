@@ -73,6 +73,6 @@ email.
  ![](images/image4.png)
 5. At any point, if you miss the lab details, you can always click on **Launch lab** during the lab duration and this will open up web page with lab details. 
 
-#Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs
+# Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs
 
 **In this exercise, you will take remote of the CCSE/CCSA Lab Server** 
