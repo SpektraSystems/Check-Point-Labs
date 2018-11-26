@@ -1,6 +1,6 @@
 # Check-Point-Labs
 
-# Accessing Hands-on Labs CCSE/CCSA
+# Accessing Hands-on Labs Check Point CCSE/CCSA
 
 # Overview
 This lab guide will help you in getting started on accessing the hands-on lab infrastructure for
@@ -12,8 +12,7 @@ Checkpoint CCSA/CCSE Lab.
 * [Lab Overview](#lab-overview)
 * [Prerequisites](#Prerequisites)
 * [Time estimate](#Time-estimate)
-* [Exercise 1-Option-1: Register via Signup URL](#Exercise1-op1)
-* [Exercise 1-Option-2: Register via Custom Invite](#Exercise1-op2)
+* [Exercise 1: Register for the Lab](#Exercise1-op1)
 * [Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs](#Exercise2)
 * [Exercise 3: Start VMs using Hyper-V](#Exercise3)
 * [Exercise 4: Start,Stop,Restart the Lab Server](#Exercise4)
@@ -22,19 +21,20 @@ Checkpoint CCSA/CCSE Lab.
 <a name="lab-overview"></a>
 # Lab Overview:
 There’re two ways you could register for the labs., One is when an instructor provides you a signup
-link, second when you receive an exclusive invite. Please follow steps based on the registration details
+link with voucher, second when you receive an exclusive invite. Please follow steps based on the registration details
 provided to you.
 <a name="Prerequisites"></a>
 # Prerequisites:
 * You should have received a lab registration URL from your instructor OR
 * You should have received an exclusive invite for the lab signup
+* Modern Web Browser and Microsoft Windows Remote Desktop. RDP is included by default in Windows, If you're using Apple Mac, Please download RDP from App Store: https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12
 <a name="Time-estimate"></a>
 # Time Estimate
  2 Minutes
  <a name="Exercise1-op1"></a>
- # Exercise 1-Option-1: Register via Signup URL 
+ # Exercise 1-Option-1: Register for Lab using signup link.
  1. **Launch** a modern web browser(Edge,Chrome,Firefox etc.) and open the lab registration
-portal. **URL** should be provided to you by your instructor 
+portal. **URL** should be provided to you by your instructor. Please note that you may also be required to have an activation or voucher code depending upon your labs arrangement. Please consult with your instructor. 
 2. **Enter** the required details and click on **Submit**
  ![](images/image1.png)
 3. Once registration is completed, **Click on Launch Lab** WHEN you’re ready to start the lab.
@@ -49,12 +49,12 @@ you’d get another email with lab details once provisioning is completed.
 email.
  * Azure Login Username Password: This is just to look at azure infrastructure (Read access).
  * CCSE/CCSA Host DNS Name: You’d use this to take RDP of the Host Machine.
- * CCSE/CCSA Host Credentials: Username and password for the host. 
+ * CCSE/CCSA Host Credentials: Username and password for the host to take remote desktop. 
 ![](images/image4.png)
-6. At any point, if you miss the lab details, you can always click on Launch lab during the
+6. At any point, if you close the lab details web browser, you can always click on Launch lab during the
 lab duration and this will open up web page with lab details.
 <a name="Exercise1-op2"></a>
-# Exercise 1 Option-2: Register via Custom Invite 
+## Register via Custom Invite 
 1. You’d have received an automated invite to launch the Lab. Click on Launch Lab, Once you’re
 ready to start the lab.
 ![](images/image5.png)
@@ -97,7 +97,8 @@ connect to CCSA VMs.
 and saying connect. Accept the default resolution option if asked. 
 ![](images/image100.png)
 <a name="Exercise3"></a>
-# Exercise 3: Start VMs using Hyper-V Manager
+
+# Exercise 3: Start Check Point Lab VMs using Hyper-V Manager
 **In this exercise, you will use Hyper-V Manager to start VMs**
 1. Once you’re inside the server, You can launch **Hyper-V Manager** available on task bar to
 connect to CCSA VMs. 
@@ -120,6 +121,11 @@ following below instructions.
 4. You can use toolbar items to start/restart/stop the server. 
  ![](images/image15.png)
  
- > Please note that these operation might take 5 to 10 minutes to complete. You can view the
-status in the Azure portal. 
+ > Please note that these operation might take 5 to 10 minutes to complete. Please wait for few minutes before trying to take remote access of the server. 
+ 
+ 
+ # Contact for Support
+ 
+ Please reach out to your instructor for any support. If you've any lab environment related issues or questions, you/your instructor can reach via email on cloudlabs-support@spektrasystems.com
+
 
