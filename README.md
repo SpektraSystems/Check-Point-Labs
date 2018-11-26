@@ -40,3 +40,6 @@ portal. **URL** should be provided to you by your instructor
 Note that the lab environment provisioning will start as soon as you click on Launch Lab. So
 you should do this only once you’re ready.
  ![](images/image2.png)
+4. This will start provisioning the lab environment. Note that this can take around 10-20 minutes for
+the lab environment provisioning to finish. You can close this web browser if you wish to,
+you’d get another email with lab details once provisioning is completed. 
