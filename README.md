@@ -80,3 +80,4 @@ email.
 2. Launch Microsoft RDP Client, by searching for remote desktop in Start Menu or entering mstsc
 in run/command prompt.
 3. Enter the DNS name in computer field copied from lab details. 
+![](images/image6.png)
