@@ -104,4 +104,6 @@ connect to CCSA VMs.
 2. You’d see list of all VMs in **Hyper-V Manager**. You can start the VM by just clicking on it and
 select Start option on the right pane of the window.
 ![](images/image12.png)
+3. This will start the VM
+![](images/image13.png)
 
