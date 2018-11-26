@@ -55,5 +55,6 @@ lab duration and this will open up web page with lab details.
 
 # Exercise 1 Option-2: Register via Custom Invite 
 1. You’d have received an automated invite to launch the Lab. Click on Launch Lab, Once you’re
-ready to start the lab. 
+ready to start the lab.
+![](images/image5.png)
 
