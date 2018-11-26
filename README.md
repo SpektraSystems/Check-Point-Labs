@@ -94,7 +94,7 @@ connect to CCSA VMs.
 
 8. You’d see list of all VMs in Hyper-V Manager. You can connect to a VM by right clicking on it
 and saying connect. Accept the default resolution option if asked. 
-![](images/image10.png)
+![](images/image100.png)
 
 # Exercise 3: Start VMs using Hyper-V Manager
 **In this exercise, you will use Hyper-V Manager to start VMs**
