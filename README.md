@@ -8,29 +8,30 @@ Checkpoint CCSA/CCSE Lab.
 
 # Contents 
 * Checkpoint CCSE/CCSA Certification: Accessing Hands-on Labs
-1. Registration for the Labs
-* [Lab Overview](#Lab Overview)
-* Prerequisites
-* Time estimate
-* Exercise 1-Option-1: Register via Signup URL 
-* Exercise 1 Option-2: Register via Custom Invite 
-* Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs
-* Exercise 3: Start VMs using Hyper-V 
-* Exercise 4: Start,Stop,Restart the Lab Server
-
+1. [Registration for the Labs](#Registration-for-the-labs)
+* [Lab Overview](#lab-overview)
+* [Prerequisites](#Prerequisites)
+* [Time estimate](#Time-estimate)
+* [Exercise 1-Option-1: Register via Signup URL](#Exercise1-op1)
+* [Exercise 1-Option-2: Register via Custom Invite](#Exercise1-op2)
+* [Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs](#Exercise2)
+* [Exercise 3: Start VMs using Hyper-V](#Exercise3)
+* [Exercise 4: Start,Stop,Restart the Lab Server](#Exercise4)
+<a name="Registration-for-the-labs"></a>
 # 1. Registration for the Labs 
+<a name="lab-overview"></a>
 # Lab Overview:
 There’re two ways you could register for the labs., One is when an instructor provides you a signup
 link, second when you receive an exclusive invite. Please follow steps based on the registration details
 provided to you.
-
+<a name="Prerequisites"></a>
 # Prerequisites:
 * You should have received a lab registration URL from your instructor OR
 * You should have received an exclusive invite for the lab signup
-
+<a name="Time-estimate"></a>
 # Time Estimate
  2 Minutes
- 
+ <a name="Exercise1-op1"></a>
  # Exercise 1-Option-1: Register via Signup URL 
  1. **Launch** a modern web browser(Edge,Chrome,Firefox etc.) and open the lab registration
 portal. **URL** should be provided to you by your instructor 
@@ -52,7 +53,7 @@ email.
 ![](images/image4.png)
 6. At any point, if you miss the lab details, you can always click on Launch lab during the
 lab duration and this will open up web page with lab details.
-
+<a name="Exercise1-op2"></a>
 # Exercise 1 Option-2: Register via Custom Invite 
 1. You’d have received an automated invite to launch the Lab. Click on Launch Lab, Once you’re
 ready to start the lab.
@@ -72,7 +73,7 @@ email.
  * CCSE/CCSA Host Credentials: Username and password for the host. 
  ![](images/image4.png)
 5. At any point, if you miss the lab details, you can always click on **Launch lab** during the lab duration and this will open up web page with lab details. 
-
+<a name="Exercise2"></a>
 # Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs
 
 **In this exercise, you will take remote of the CCSE/CCSA Lab Server** 
@@ -95,7 +96,7 @@ connect to CCSA VMs.
 8. You’d see list of all VMs in Hyper-V Manager. You can connect to a VM by right clicking on it
 and saying connect. Accept the default resolution option if asked. 
 ![](images/image100.png)
-
+<a name="Exercise3"></a>
 # Exercise 3: Start VMs using Hyper-V Manager
 **In this exercise, you will use Hyper-V Manager to start VMs**
 1. Once you’re inside the server, You can launch **Hyper-V Manager** available on task bar to
@@ -108,7 +109,7 @@ select Start option on the right pane of the window.
 ![](images/image13.png)
 
 > Note: Please start the VMs Router and A-LDAP before you start any other VMs
-
+<a name="Exercise4"></a>
 # Exercise 4: Start,Stop,Restart the Lab Server. 
 
 1. If by mistake, you end up shutting down the host lab server itself, you can start this by
