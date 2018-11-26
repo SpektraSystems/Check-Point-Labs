@@ -79,10 +79,14 @@ email.
 1. Copy the CCSE/CCSA Host DNS Name from lab details webpage/email
 2. Launch Microsoft RDP Client, by searching for remote desktop in Start Menu or entering mstsc
 in run/command prompt.
-3. Enter the DNS name in computer field copied from lab details. 
-
+3. Enter the DNS name in computer field copied from lab details.
 ![](images/image6.png)
 
-4. Click on More Choices if you get a prompt with your local username.
+4. Click on **More Choices** if you get a prompt with your local username.
+![](images/image7.png)
 5. Enter the Host VM credentails(**Admin/Chkp!234**) 
+6. Check the option for Don’t ask me again for connection and Click on **Yes** if prompt as shown
+below:
+![](images/image8.png)
+
 
