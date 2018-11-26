@@ -107,3 +107,4 @@ select Start option on the right pane of the window.
 3. This will start the VM
 ![](images/image13.png)
 
+> *Note: Please start the VMs Router and A-LDAP before you start any other VMs
