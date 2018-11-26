@@ -30,4 +30,8 @@ provided to you.
 
 # Time Estimate
  2 Minutes
-
+ 
+ # Exercise 1-Option-1: Register via Signup URL 
+ 1. **Launch** a modern web browser(Edge,Chrome,Firefox etc.) and open the lab registration
+portal. **URL** should be provided to you by your instructor 
+2. **Enter** the required details and click on **Submit**
