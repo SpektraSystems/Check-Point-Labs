@@ -117,7 +117,7 @@ following below instructions.
 3. Click on Virtual Machines, As specified in below link. 
  ![](images/image14.png)
  
- 4.You can use toolbar items to start/restart/stop the server. 
+4.You can use toolbar items to start/restart/stop the server. 
  ![](images/image15.png)
  
  > Please note that these operation might take 5 to 10 minutes to complete. You can view the
