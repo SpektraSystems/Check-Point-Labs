@@ -28,3 +28,6 @@ provided to you.
 * You should have received a lab registration URL from your instructor OR
 * You should have received an exclusive invite for the lab signup
 
+# Time Estimate
+ 2 Minutes
+
