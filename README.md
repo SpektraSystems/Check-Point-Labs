@@ -76,3 +76,7 @@ email.
 # Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs
 
 **In this exercise, you will take remote of the CCSE/CCSA Lab Server** 
+1. Copy the CCSE/CCSA Host DNS Name from lab details webpage/email
+2. Launch Microsoft RDP Client, by searching for remote desktop in Start Menu or entering mstsc
+in run/command prompt.
+3. Enter the DNS name in computer field copied from lab details. 
