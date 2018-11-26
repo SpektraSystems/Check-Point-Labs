@@ -9,7 +9,7 @@ Checkpoint CCSA/CCSE Lab.
 # Contents 
 * Checkpoint CCSE/CCSA Certification: Accessing Hands-on Labs
 1. Registration for the Labs
-* Lab Overview
+* [Lab Overview](#Lab Overview)
 * Prerequisites
 * Time estimate
 * Exercise 1-Option-1: Register via Signup URL 
