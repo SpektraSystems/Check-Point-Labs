@@ -97,4 +97,13 @@ connect to CCSE/CCSA VMs.
 and saying connect. Accept the default resolution option if asked. 
 ![](images/image10.png)
 
+# Exercise 3: Start VMs using Hyper-V Manager
+**In this exercise, you will use Hyper-V Manager to start VMs**
+1. Once you’re inside the server, You can launch **Hyper-V Manager** available on task bar to
+connect to CCSA VMs. 
+
+![](images/image9.png)
+2. You’d see list of all VMs in **Hyper-V Manager**. You can start the VM by just clicking on it and
+select Start option on the right pane of the window.
+
 
