@@ -7,6 +7,8 @@ This is a supplement guide to getting started on accessing the hands-on **Check 
 # Contents 
 
 * [Lab overview](./technical_deep_dive/Registration%20for%20the%20Labs.md)
+* [Prerequisites](./)
+* [Time Estimate](./)
 * [Exercise 1 Registration for the Labs]()
 * [Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs](#Exercise2)
 * [Exercise 3: Start VMs using Hyper-V](#Exercise3)
