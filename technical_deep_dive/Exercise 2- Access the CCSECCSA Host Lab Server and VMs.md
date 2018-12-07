@@ -1,5 +1,5 @@
 
-# Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs
+# Access the CCSE/CCSA Host Lab Server and VMs
 
 **In this exercise, you will take remote of the CCSE/CCSA Lab Server** 
 1. Copy the CCSE/CCSA Host DNS Name from lab details webpage/email
