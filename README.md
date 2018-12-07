@@ -6,7 +6,7 @@ This is a supplement guide to getting started on accessing the hands-on **Check 
 
 # Contents 
 
-* [Registration for the Labs](https://github.com/Abhishekpathania01/Check-Point-Labs/blob/master/technical_deep_dive/Registration%20for%20the%20Labs.md#lab-overview)
+* [Registration for the Labs](Check-Point-Labs/blob/master/technical_deep_dive/Registration%20for%20the%20Labs.md#lab-overview)
 * [Exercise 1 Registration for the Labs]()
 * [Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs](#Exercise2)
 * [Exercise 3: Start VMs using Hyper-V](#Exercise3)
