@@ -1,6 +1,6 @@
 # Introduction
 
-This is a supplement guide to ‘Check Point Labs- CCSA/CCSE’, to be used when you are delivering a hands-on-lab session using Cloud Labs AI platform from Spektra Systems. If you have any questions, please reach out to cloudlabs-support@spektrasystems.com
+This is a supplement guide to ‘**Check Point Certification Labs - CCSA/CCSE**’, to be used when you are delivering a hands-on-lab session using Cloud Labs AI platform from Spektra Systems. If you have any questions, please reach out to cloudlabs-support@spektrasystems.com
 
 # Accessing Hands-on Labs CCSE/CCSA
 
