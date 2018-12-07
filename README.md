@@ -20,6 +20,5 @@ Checkpoint CCSA/CCSE Lab.
 * [Exercise 3: Start VMs using Hyper-V](#Exercise3)
 * [Exercise 4: Start,Stop,Restart the Lab Server](#Exercise4)
 
-# Help and Support
-
-If you require any help during the workshop, please reach out to the instructor / proctors. Instructors / proctors might escalate the issue to remote support team, at that time, please pass on your AAD User ID (aad_user_xyz), so that it is easier to look up your environment.
+# Contact for Support
+Please reach out to your instructor for any support. If you've any lab environment related issues or questions, you/your instructor can reach via email on cloudlabs-support@spektrasystems.com 
