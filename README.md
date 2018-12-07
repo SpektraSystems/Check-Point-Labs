@@ -4,7 +4,7 @@ This is a supplement guide to getting started on accessing the hands-on **Check 
 
 # Contents 
 
-1.[Registration for the Labs](#Registration-for-the-labs)
+* [Registration for the Labs](#Registration-for-the-labs)
 * [Exercise 1-Option-1: Register via Signup URL](#Exercise1-op1)
 * [Exercise 1-Option-2: Register via Custom Invite](#Exercise1-op2)
 * [Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs](#Exercise2)
