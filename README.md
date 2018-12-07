@@ -3,6 +3,7 @@
 This is a supplement guide to getting started on accessing the hands-on **Check Point Certification CCSA/CCSE** labs, using CloudLabs AI platform from Spektra Systems. 
 
 
+
 # Contents 
 
 * [Registration for the Labs](#Registration-for-the-labs)
@@ -11,6 +12,7 @@ This is a supplement guide to getting started on accessing the hands-on **Check 
 * [Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs](#Exercise2)
 * [Exercise 3: Start VMs using Hyper-V](#Exercise3)
 * [Exercise 4: Start,Stop,Restart the Lab Server](#Exercise4)
+
 
 
 # Contact for Support
