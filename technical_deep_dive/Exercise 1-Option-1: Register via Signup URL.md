@@ -1,3 +1,4 @@
+# Option-1: Register via Signup URL
 
 1. You’d have received an automated invite to launch the Lab. Click on Launch Lab, Once you’re
 ready to start the lab.
