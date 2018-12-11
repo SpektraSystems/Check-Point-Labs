@@ -6,7 +6,7 @@ This is a supplement guide to getting started on **Accessing the hands-on Check 
 
 # Contents 
 
-* [Registration for the Labs](./technical_deep_dive/Registration-for-the-labs.md#registration-for-the-labs)
+* [Registration for the Labs](./technical_deep_dive/Exercise-1-Registration-for-the-Labs.md#register-using-signup-link)
 * [Lab Overview](./technical_deep_dive/Lab-Overview.md#lab-overview)
 * [Prerequisites](./technical_deep_dive/Prerequisites.md#prerequisites)
 * [Time Estimate](./technical_deep_dive/Time-Estimate.md#time-estimate)
