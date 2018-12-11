@@ -12,5 +12,5 @@ provided to you.
 
 ## Time Estimate
 2 Minutes                                                                                                
-<div align="right"> [Next]"(./Lab-Overview.md#lab-overview) </div>
+<div align="right"> [Next](./Lab-Overview.md#lab-overview) </div>
 
