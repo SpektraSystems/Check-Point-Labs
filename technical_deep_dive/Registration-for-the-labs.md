@@ -12,4 +12,4 @@ provided to you.
 
 ## Time Estimate
 ## 2 Minutes
-                                                                                                                      [Next](./Lab-Overview.md#lab-overview)
+                                                                                                                    [Next](./Lab-Overview.md#lab-overview)
