@@ -12,4 +12,4 @@ provided to you.
 
 ## Time Estimate
 2 Minutes                                                                                                
-[Back](./../README.md) [Next](./Lab-Overview.md)
+[Back](./../README.md)                                                      .[Next](./Lab-Overview.md)
