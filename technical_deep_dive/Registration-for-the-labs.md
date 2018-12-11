@@ -12,5 +12,5 @@ provided to you.
 
 ## Time Estimate
 2 Minutes                                                                                                
-<div align="right"> <a  href ="./Lab-Overview.md#lab-overview">Next</a> </div>
+<div align="right"> <a href="./Lab-Overview.md#lab-overview">Next</a></div>
 
