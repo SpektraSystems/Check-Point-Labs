@@ -11,4 +11,6 @@ provided to you.
 * Modern Web Browser and Microsoft Windows Remote Desktop. RDP is included by default in Windows, If you're using Apple Mac, Please download RDP from App Store: https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12
 
 ## Time Estimate
-2 Minutes                                                                                                 <p align="center"                 [Next](./Lab-Overview.md#lab-overview) >
+2 Minutes                                                                                                
+<p align="center" <a href = "./Lab-Overview.md#lab-overview"> Next </a> > </p>
+<p align="center"                 [Next](./Lab-Overview.md#lab-overview)
