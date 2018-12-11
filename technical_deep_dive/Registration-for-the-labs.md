@@ -12,5 +12,4 @@ provided to you.
 
 ## Time Estimate
 2 Minutes                                                                                                
-<a href="./Lab-Overview.md"> Next </a>
-
+[Back](./../README.md) [Next](./Lab-Overview.md)
