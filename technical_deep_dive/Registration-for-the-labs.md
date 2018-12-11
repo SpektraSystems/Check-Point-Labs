@@ -1,3 +1,4 @@
+[Home](./Check-Point-Labs/blob/master/README.md)
 # Registration for the labs
 ## Lab Overview:
 There’re two ways you could register for the labs., One is when an instructor provides you a signup
@@ -11,3 +12,4 @@ provided to you.
 
 ## Time Estimate
 ## 2 Minutes
+                                                                                                                      [Next](./Lab-Overview.md#lab-overview)
