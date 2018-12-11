@@ -6,14 +6,14 @@ This is a supplement guide to getting started on **Accessing the hands-on Check 
 
 # Contents 
 
-* [Registration for the Labs](https://github.com/Abhishekpathania01/Check-Point-Labs/blob/master/technical_deep_dive/Registration%20for%20the%20Labs.md#registration-for-the-labs)
-* [Lab Overview](https://github.com/Abhishekpathania01/Check-Point-Labs/blob/master/technical_deep_dive/LabOverview.md)
+* [Registration for the Labs](./technical_deep_dive/Registration-for-the-Labs.md#registration-for-the-labs)
+* [Lab Overview](./technical_deep_dive/Lab-Overview.md#lab-overview)
 * [Prerequisites](./technical_deep_dive/Prerequisites.md#prerequisites)
-* [Time Estimate](./technical_deep_dive/Time%20Estimate.md#time-estimate)
-* [Exercise 1: Registration for the Labs](./technical_deep_dive/Exercise-1-Option-1-Register-via-Signup-URL.md)
-* [Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs](https://github.com/Abhishekpathania01/Check-Point-Labs/blob/master/technical_deep_dive/Exercise%202-%20Access%20the%20CCSECCSA%20Host%20Lab%20Server%20and%20VMs.md)
-* [Exercise 3: Start VMs using Hyper-V](https://github.com/Abhishekpathania01/Check-Point-Labs/blob/master/technical_deep_dive/Exercise%203%20Start%20VMs%20using%20Hyper-V.md)
-* [Exercise 4: Start,Stop,Restart the Lab Server](./technical_deep_dive/Exercise%204%20Start%2CStop%2CRestart%20the%20Lab%20Server.md#exercise-4-startstoprestart-the-lab-server)
+* [Time Estimate](./technical_deep_dive/Time-Estimate.md#time-estimate)
+* [Exercise 1: Registration for the Labs](./technical_deep_dive/Exercise-1-Option-1-Register-via-Signup-URL.md#register-using-signup-link)
+* [Exercise 2: Access the CCSE/CCSA Host Lab Server and VMs](./technical_deep_dive/Exercise-2-Access-the-CCSE-CCSA-Host-Lab-Server-and-VMs.md#access-the-ccseccsa-host-lab-server-and-vms)
+* [Exercise 3: Start VMs using Hyper-V](./technical_deep_dive/Exercise-3-Start-VMs-using-Hyper-V.md#exercise-3-start-vms-using-hyper-v-manager)
+* [Exercise 4: Start,Stop,Restart the Lab Server](./technical_deep_dive/Exercise-4-Start%2C-Stop%2C-Restart-the-Lab-Server.md#exercise-4-startstoprestart-the-lab-server)
 
 
 
