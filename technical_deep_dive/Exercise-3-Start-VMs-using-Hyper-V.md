@@ -1,3 +1,4 @@
+[Home](./../README.md)
 # Exercise 3: Start VMs using Hyper-V Manager
 **In this exercise, you will use Hyper-V Manager to start VMs**
 1. Once you’re inside the server, You can launch **Hyper-V Manager** available on task bar to
