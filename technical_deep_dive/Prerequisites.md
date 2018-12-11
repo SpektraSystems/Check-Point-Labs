@@ -1,3 +1,4 @@
+[Home](./../README.md)
 # Prerequisites
 
 * You should have received a lab registration URL from your instructor OR
