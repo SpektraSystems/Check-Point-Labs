@@ -1,3 +1,4 @@
+[Home](./../README.md)
 # Exercise 4: Start,Stop,Restart the Lab Server. 
 
 1. If by mistake, you end up shutting down the host lab server itself, you can start this by
