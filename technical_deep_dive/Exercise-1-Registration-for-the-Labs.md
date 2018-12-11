@@ -1,4 +1,4 @@
-
+[Home](./../README.md)
 # Register using signup link
 1. **Launch** a modern web browser(Edge,Chrome,Firefox etc.) and open the lab registration
 portal. **URL** should be provided to you by your instructor. Please note that you may also be required to have an activation or voucher code depending upon your labs arrangement. Please consult with your instructor. 
