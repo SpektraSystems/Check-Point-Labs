@@ -1,4 +1,4 @@
-[Home](./../blob/master/README.md)
+[Home](./../README.md)
 # Registration for the labs
 ## Lab Overview:
 There’re two ways you could register for the labs., One is when an instructor provides you a signup
