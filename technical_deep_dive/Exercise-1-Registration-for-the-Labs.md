@@ -41,4 +41,4 @@ email.
  * CCSE/CCSA Host Credentials: Username and password for the host. 
  ![](images/image4.png)
 5. At any point, if you miss the lab details, you can always click on **Launch lab** during the lab duration and this will open up web page with lab details. 
-
+<div align="right"> <a href ="./Exercise-2-Access-the-CCSE-CCSA-Host-Lab-Server-and-VMs.md#access-the-ccseccsa-host-lab-server-and-vms">Next</a> </div>
