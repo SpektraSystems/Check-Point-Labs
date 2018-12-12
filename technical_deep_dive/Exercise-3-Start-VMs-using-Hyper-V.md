@@ -11,4 +11,5 @@ select Start option on the right pane of the window.
 ![](images/image13.png)
 
 > Note: Please start the VMs Router and A-LDAP before you start any other VMs
-<div align="right"> <a href ="./Exercise-4-Start-Stop-Restart-the-Lab-Server.md#exercise-4-startstoprestart-the-lab-server">Next</a> </div>
+
+[Next](./Exercise-4-Start-Stop-Restart-the-Lab-Server.md#exercise-4-startstoprestart-the-lab-server)
