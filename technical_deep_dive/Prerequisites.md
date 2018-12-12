@@ -1,7 +1,7 @@
 [Home](./../README.md)
 # Prerequisites
 
-* You should have received a lab registration URL from your instructor OR
+* You should have received a lab registration URL from your instructor **OR**
 * You should have received an exclusive invite for the lab signup
 
 * You should have received an exclusive invite for the lab signup
