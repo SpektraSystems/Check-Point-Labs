@@ -14,9 +14,8 @@ in run/command prompt.
 6. Check the option for Don’t ask me again for connection and Click on **Yes** if prompt as shown
 below:
 ![](images/image8.png)
-7.  Once you’re inside the server, You can launch **Hyper-V Manager** available on task bar to
-connect to CCSA VMs. 
- ![](images/image09.png)
+7.  Once you’re inside the server, You can launch **Hyper-V Manager** available on task bar to connect to CCSA VMs. 
+![](images/image09.png)
 
 8. You’d see list of all VMs in Hyper-V Manager. You can connect to a VM by right clicking on it
 and saying connect. Accept the default resolution option if asked. 
