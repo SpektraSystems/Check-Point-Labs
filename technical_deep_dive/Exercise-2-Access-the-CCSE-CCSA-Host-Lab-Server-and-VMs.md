@@ -9,9 +9,8 @@ in run/command prompt.
 ![](images/image6.png)
 4. Click on **More Choices** if you get a prompt with your local username.
 ![](images/image7.png)
-5. Enter the Host VM credentails(**Admin/Chkp!234**) 
-6. Check the option for Don’t ask me again for connection and click on **Yes** if prompt as shown below.
-&nbsp;
+5. Enter the Host VM credentails(**Admin/Chkp!234**)
+6. Check the option for Don't ask me again for connection and click on **yes** if prompt.
 ![](images/image8.png)
 7. Once you’re inside the server, You can launch **Hyper-V Manager** available on task bar to connect to CCSA VMs. 
 ![](images/image09.png)
